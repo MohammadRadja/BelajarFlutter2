@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # projek2
 
 A new Flutter project.
@@ -15,6 +16,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# BelajarFlutter2
+>>>>>>> 45586e91ac1034222601c45603fb56e65307bf7a
 =======
 # BelajarFlutter2
 >>>>>>> 45586e91ac1034222601c45603fb56e65307bf7a
